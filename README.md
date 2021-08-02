@@ -1,2 +1,1 @@
-# git-demo-remote
-This is readme.d file
+# updated readme for feature branch
