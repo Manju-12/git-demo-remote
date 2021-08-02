@@ -1,14 +1,10 @@
 #add function
 def add(x,y):
-  return x+y
+  pass
 
 #subtract function
 def subtract(x,y):
-  if x>y:
-    return x-y
-  else:
-    return y-x
-
+  pass
 
 #multiply function
 def multiply(x,y):
@@ -16,4 +12,4 @@ def multiply(x,y):
 
 #devide function
 def divide(x,y):
-  return x/y
+  pass
